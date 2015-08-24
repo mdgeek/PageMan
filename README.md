@@ -1,5 +1,5 @@
 # PageMan 
-API for sending pages to numeric and alphanumeric pagers or via text messaging.  Resurrected at the request of a colleague from some very old code I wrote many years ago.  To setup for testing purposes, you can created the following entries via FileMan:
+API for sending pages to numeric and alphanumeric pagers or via text messaging.  Resurrected at the request of a colleague from some very old code I wrote many years ago.  To setup for testing purposes, you can create the following entries via FileMan:
 
 ## DEVICE file:
 ```
